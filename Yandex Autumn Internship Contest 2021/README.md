@@ -12,8 +12,10 @@ _Решено 3 из 6 задач во время контеста._
 ---
 
 # Заметки
+haha
 
-[//]: (All links)
+
+[//]: # [All links]
 
 [problemA]: <https://github.com/Mizzza54/Skill-boost/blob/master/Yandex%20Autumn%20Internship%20Contest%202021/Problems/A.%20%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0%20%D1%81%20%D0%B2%D1%8B%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC.pdf>
 [problemB]: <https://github.com/Mizzza54/Skill-boost/blob/master/Yandex%20Autumn%20Internship%20Contest%202021/Problems/B.%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%91%D0%B0%D1%80.pdf>
