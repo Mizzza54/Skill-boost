@@ -13,7 +13,3 @@ ___
 Правильный ответ: дописать
 
 ### Разбор:
-
-A.  the letter A
-A.  the letter B
-A.  etc
