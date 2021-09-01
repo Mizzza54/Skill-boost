@@ -46,10 +46,10 @@ int b = scan.nextInt();
 [problemE]: ./Problems/E.%20Автоматическая%20торговля.pdf
 [problems]: ./Problems/Problems.pdf
 
-[solutionA]: ./A/src/SkirtingBoard.java
-[solutionB]: ./B/src/Boxes.java
-[solutionC]: ./C/src/Groupings.java
-[solutionD]: ./D/src/DefectiveXML.java
-[solutionE]: ./E/src/AutomaticTrading.java
+[solutionA]: ./A/src/Main.java
+[solutionB]: ./B/src/Main.java
+[solutionC]: ./C/src/Main.java
+[solutionD]: ./D/src/Main.java
+[solutionE]: ./E/src/Main.java
 
 

@@ -1,5 +1,6 @@
 /**
  * @author Michael Gerasimov
  */
-public class Groupings {
+public class Main {
+
 }
